@@ -80,8 +80,7 @@ BEGIN
 END;
 /
 
--- Execute
--- EXEC ProcessMonthlyInterest;
+
 
 
 -- ============================================================
@@ -133,8 +132,7 @@ BEGIN
 END;
 /
 
--- Execute (example: 10% bonus for IT department)
--- EXEC UpdateEmployeeBonus('IT', 10);
+
 
 
 -- ============================================================
@@ -216,5 +214,4 @@ BEGIN
 END;
 /
 
--- Execute (example: transfer 5000 from account 1001 to 1003)
--- EXEC TransferFunds(1001, 1003, 5000);
+
